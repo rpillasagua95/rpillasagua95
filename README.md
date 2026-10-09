@@ -15,6 +15,7 @@ Trabajé de 2020 a 2025 en control de calidad en empacadoras de camarón de Ecua
 |---|---|
 | **[RutaCuracao](https://rutacuracao.com)** | Guías de trámites de migración de Curazao en 4 idiomas, generadas con Python desde fuentes oficiales: revisión semanal del sitio oficial, 172 sentencias analizadas, chat con IA, calculadora de costos y llenado de formularios oficiales. *Python · JavaScript · Vercel · GitHub Actions* |
 | **[Telemedicina LATAM](https://telemedicina-latam.vercel.app)** | Plataforma de teleconsulta para Curazao (en desarrollo, demo con datos ficticios): agenda, pagos con Stripe, videoconsulta y recetas verificables con QR. *Next.js · TypeScript · Stripe* |
+| **[Bitácora Técnica](https://github.com/rpillasagua/control-de-tiempo)** | PWA para técnicos de campo que funciona sin internet: GPS de llegada y salida, actividades con fotos y reporte en PDF para WhatsApp. *Next.js · TypeScript · Firebase* |
 | **Herramientas de calidad (Aquagold, 2025)** | AquaCheck (liberación de lotes y reporte por WhatsApp), reportes organolépticos, bots de carga al portal y al ERP, buscador SQLite. Uso interno, sin código público. *Python · Selenium · PyQt5 · SQLite* |
 
 👉 **Portafolio completo · *Full portfolio*: [rpillasagua95.github.io](https://rpillasagua95.github.io)**
