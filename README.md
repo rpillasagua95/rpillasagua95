@@ -25,7 +25,7 @@ Trabajé de 2020 a 2025 en control de calidad en empacadoras de camarón de Ecua
 
 #### 🧰 Herramientas · *Toolbox*
 
-`Python` `pandas` `openpyxl` `Selenium` `PyQt5` `SQLite` `JavaScript` `TypeScript` `Next.js` `Vercel` `GitHub Actions`
+`Python` `pandas` `openpyxl` `Selenium` `PyQt5` `Tkinter` `SQLite` `JavaScript` `TypeScript` `Next.js` `React` `Firebase` `PWA` `Capacitor` `Vercel` `GitHub Actions`
 `HACCP` `BRCGS` `ISO 9001` `ISO 22000` `GlobalGAP` `5S` `Kaizen` `PDCA`
 
 #### 📫 Contacto · *Contact*
